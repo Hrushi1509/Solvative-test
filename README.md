@@ -2,13 +2,15 @@
 
 This project was bootstrapped with Create React App.
 
+cd solative-test :- To get project directory
+
 Available Scripts
 In the project directory, you can run:
 
-npm install
+npm install :-
 Install the dependencies
 
-npm start
+npm start :-
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
